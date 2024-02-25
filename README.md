@@ -29,5 +29,8 @@ To get started with IntelliSort, clone the repository and refer to the documenta
 git clone https://github.com/RushiChaganti/IntelliSort.git
 cd IntelliSort
 
-##Checkout the demo here
-https://github.com/RushiChaganti/IntelliSort/blob/main/intellisort_demo.mp4
+## Checkout the Demo
+
+[Download IntelliSort Demo Video](https://github.com/RushiChaganti/IntelliSort/raw/main/intellisort_demo.mp4)
+
+Click the link above to download and watch the demo video.
