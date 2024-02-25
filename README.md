@@ -28,3 +28,6 @@ To get started with IntelliSort, clone the repository and refer to the documenta
 ```bash
 git clone https://github.com/RushiChaganti/IntelliSort.git
 cd IntelliSort
+
+##Checkout the demo here
+https://github.com/RushiChaganti/IntelliSort/blob/main/intellisort_demo.mp4
